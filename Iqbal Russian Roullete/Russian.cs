@@ -30,8 +30,9 @@ namespace iqbal_russian
 
             if (roulleteclasssobj.leftchamber > 0 && roulleteclasssobj.spinstr == 1)
             {
+                //loose message is shown
 
-                MessageBox.Show("You Loose");//loose message is shown
+                MessageBox.Show("You Loose");
 
                 btnload .Enabled = false;
                 btnshoot .Enabled = false;//buttons diable
