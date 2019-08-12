@@ -30,7 +30,7 @@ namespace iqbal_russian
 
             if (roulleteclasssobj.leftchamber > 0 && roulleteclasssobj.spinstr == 1)
             {
-                //loose message is shown
+
 
                 MessageBox.Show("You Loose");
 
